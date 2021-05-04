@@ -6,6 +6,9 @@ Languaje: Python
 Group size: 1
 
 Compilation: on GNU/Linux 
+             '''
+             python3/main.py
+             '''
 
 **Screenshots:**
 
