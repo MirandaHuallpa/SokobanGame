@@ -11,7 +11,7 @@ Screenshots:
 
 <image src="/Imagenes/eleccion-nivel.png">
 
-<image src="/Imagenes/nivel1.png" width="100">
+<image src="/Imagenes/nivel1.png" width="300">
   
 
 
