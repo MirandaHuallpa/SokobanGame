@@ -7,6 +7,6 @@ Group size: 1
 
 Compilation: on GNU/Linux 
 
-<image src="Images/github-Capturadepantallade2021-05-0318-02-24.png" >
+<image src="/Imagenes/eleccion-nivel.png">
 
 
