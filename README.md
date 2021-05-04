@@ -7,6 +7,11 @@ Group size: 1
 
 Compilation: on GNU/Linux 
 
+Screenshots:
+
 <image src="/Imagenes/eleccion-nivel.png">
+
+<image src="/Imagenes/nivel1.png">
+  
 
 
