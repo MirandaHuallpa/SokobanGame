@@ -13,7 +13,7 @@ Compilation: on GNU/Linux
 
 <image src="/Imagenes/nivel1.png" width="300">
   
-<image src="/Imagenes/nivel 41.png" width="100">
+<image src="/Imagenes/nivel 41.png" width="300">
   
 
 
