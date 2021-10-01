@@ -1,5 +1,5 @@
 # SokobanGame
-Sokoban proyect for University of Buenos Aires (1st year 2020)
+Sokoban proyect for Universidad de Buenos Aires (1st year 2020)
 
 Languaje: Python
 
